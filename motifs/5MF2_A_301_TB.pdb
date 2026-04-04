@@ -1,0 +1,4 @@
+HETATM    1 TB    TB A 301      33.795   6.554  32.109  0.30 66.87          TB  
+HETATM    2  O   HOH A 489      32.327   5.368  33.580  1.00 61.33           O  
+TER       3      HOH A 489                                                       
+END   

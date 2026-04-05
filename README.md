@@ -2,14 +2,19 @@
 ## Extraction of Lanthanide-Binding Motifs from Protein Structures
 
 > **Team:** Rick and Morty
+> 
 > **Members:** Avishka Jindal · Mihir Gor
+> 
 > **Event:** HackRush 2026, IIT Gandhinagar
+> 
 > **Stakeholders:** Aditya Mehta · Adwaith P
 
 ---
 
+<img width="706" height="698" alt="image" src="https://github.com/user-attachments/assets/1bdaa31f-252e-4042-bf5d-fcae3ceb6def" />
 
-![Lanthanide Binding Motif — 1GGY YB site](image-1.png)
+Lanthanide Binding Motif — 1GGY YB site
+
 *YB³⁺ binding motif extracted from PDB: 1GGY, Chain A, Residue 732 — visualized in VMD 2.0.0a6*
 
 ---

@@ -1,0 +1,11 @@
+ATOM      1  N   ASP F 148      35.864  87.633   3.952  1.00 20.61      PROF   N
+ATOM      2  CA  ASP F 148      34.661  87.128   3.298  1.00 22.82      PROF   C
+ATOM      3  C   ASP F 148      33.838  86.361   4.334  1.00 19.95      PROF   C
+ATOM      4  O   ASP F 148      32.964  85.570   3.989  1.00 20.86      PROF   O
+ATOM      5  CB  ASP F 148      35.016  86.196   2.132  1.00 27.34      PROF   C
+ATOM      6  CG  ASP F 148      35.788  84.973   2.580  1.00 31.30      PROF   C
+ATOM      7  OD1 ASP F 148      35.997  84.049   1.760  1.00 36.14      PROF   O
+ATOM      8  OD2 ASP F 148      36.193  84.940   3.759  1.00 34.22      PROF   O
+ATOM      9  OXT ASP F 148      34.712  87.152   4.679  0.00  1.00      PROF   O
+TER
+END

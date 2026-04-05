@@ -1,0 +1,11 @@
+ATOM      1  N   ASP L 148      46.547  46.832  73.009  1.00 20.67      PROL   N
+ATOM      2  CA  ASP L 148      47.842  46.165  72.973  1.00 22.55      PROL   C
+ATOM      3  C   ASP L 148      48.901  47.138  73.480  1.00 21.33      PROL   C
+ATOM      4  O   ASP L 148      50.092  46.993  73.199  1.00 23.10      PROL   O
+ATOM      5  CB  ASP L 148      48.182  45.700  71.549  1.00 27.07      PROL   C
+ATOM      6  CG  ASP L 148      48.238  46.843  70.554  1.00 30.23      PROL   C
+ATOM      7  OD1 ASP L 148      48.498  46.582  69.360  1.00 35.22      PROL   O
+ATOM      8  OD2 ASP L 148      48.022  48.003  70.962  1.00 31.15      PROL   O
+ATOM      9  OXT ASP L 148      47.710  47.283  73.761  0.00  1.00      PROL   O
+TER
+END

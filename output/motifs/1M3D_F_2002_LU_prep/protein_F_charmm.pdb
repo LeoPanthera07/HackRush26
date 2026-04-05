@@ -1,0 +1,20 @@
+ATOM      1  N   ASP F 148      35.864  87.633   3.952  1.00 20.61      PROF   N
+ATOM      2  CA  ASP F 148      34.661  87.128   3.298  1.00 22.82      PROF   C
+ATOM      3  C   ASP F 148      33.838  86.361   4.334  1.00 19.95      PROF   C
+ATOM      4  O   ASP F 148      32.964  85.570   3.989  1.00 20.86      PROF   O
+ATOM      5  CB  ASP F 148      35.016  86.196   2.132  1.00 27.34      PROF   C
+ATOM      6  CG  ASP F 148      35.788  84.973   2.580  1.00 31.30      PROF   C
+ATOM      7  OD1 ASP F 148      35.997  84.049   1.760  1.00 36.14      PROF   O
+ATOM      8  OD2 ASP F 148      36.193  84.940   3.759  1.00 34.22      PROF   O
+ATOM      9  N   GLU F 149      34.126  86.600   5.609  1.00 14.66      PROF   N
+ATOM     10  CA  GLU F 149      33.408  85.918   6.676  1.00 12.49      PROF   C
+ATOM     11  C   GLU F 149      32.093  86.605   7.042  1.00 10.88      PROF   C
+ATOM     12  O   GLU F 149      31.897  87.799   6.794  1.00 10.07      PROF   O
+ATOM     13  CB  GLU F 149      34.308  85.781   7.904  1.00 13.64      PROF   C
+ATOM     14  CG  GLU F 149      35.516  84.885   7.651  1.00 16.99      PROF   C
+ATOM     15  CD  GLU F 149      35.128  83.469   7.236  1.00 16.90      PROF   C
+ATOM     16  OE1 GLU F 149      35.817  82.903   6.364  1.00 20.49      PROF   O
+ATOM     17  OE2 GLU F 149      34.151  82.912   7.781  1.00 14.91      PROF   O
+ATOM     18  OXT GLU F 149      32.289  85.411   7.290  0.00  1.00      PROF   O
+TER
+END

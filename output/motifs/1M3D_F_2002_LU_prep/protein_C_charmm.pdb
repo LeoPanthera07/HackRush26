@@ -1,0 +1,11 @@
+ATOM      1  N   ASP C 148      37.276  88.580   0.328  1.00 18.46      PROC   N
+ATOM      2  CA  ASP C 148      38.576  88.833   0.943  1.00 19.85      PROC   C
+ATOM      3  C   ASP C 148      39.612  88.884  -0.176  1.00 17.93      PROC   C
+ATOM      4  O   ASP C 148      40.815  88.805   0.067  1.00 18.97      PROC   O
+ATOM      5  CB  ASP C 148      38.943  87.718   1.930  1.00 23.74      PROC   C
+ATOM      6  CG  ASP C 148      39.091  86.364   1.255  1.00 26.84      PROC   C
+ATOM      7  OD1 ASP C 148      39.509  85.397   1.927  1.00 31.60      PROC   O
+ATOM      8  OD2 ASP C 148      38.785  86.266   0.048  1.00 28.12      PROC   O
+ATOM      9  OXT ASP C 148      38.409  88.963  -0.419  0.00  1.00      PROC   O
+TER
+END

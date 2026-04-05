@@ -1,0 +1,4 @@
+HETATM    1  GD   GD A 290       0.953  24.562  36.807  0.81 15.30      ALL   GD
+ATOM      2  OH2 TIP3 A2150      -0.967  25.501  37.761  1.00 19.79      ALL    O
+TER
+END

@@ -1,0 +1,35 @@
+============================================================
+Motif  : 1GGY_A_732_YB.pdb
+Time   : 2026-04-05 10:48:05
+Target : both
+============================================================
+
+Atoms loaded : 29
+  [RESNAME]  fixed 2 residue names (CHARMM36)
+  [ATOMNAME] fixed 2 atom names
+  [OXT]      added OXT to 1 C-termini
+
+Protein residues : 3  (chains: ['A'])
+Water (TIP3)     : 2
+Lanthanide ions  : 1  ['YB']
+Inorganic ions   : 0
+Disulfides       : 0
+
+-- VMD / CHARMM36 files --
+  ln_custom.rtf  ln_custom.prm
+  psfgen.tcl  run_vmd.bat
+  protein_A_charmm.pdb
+  water_charmm.pdb
+  ions_charmm.pdb
+-- GROMACS / CHARMM36 files --
+  protein_gmx.pdb
+  ffnonbonded_ln.itp  ln_YB.itp
+  posre.itp  topol.top  em.mdp  md.mdp
+  run_gmx.bat  run_gmx.sh
+
+-- NEXT STEPS --
+VMD:     cd motifs/1GGY_A_732_YB_prep && run_vmd.bat
+         (place CHARMM36 RTF files in ./charmm36/ first)
+GROMACS: cd motifs/1GGY_A_732_YB_prep && run_gmx.bat  (Windows)
+         OR  ./run_gmx.sh  (Linux/WSL)
+         charmm36.ff must be in GROMACS data path or current folder

@@ -1,0 +1,5 @@
+pdb_id,motif_file,comp_id,element,chain,resnum,coord_residues,waters_3A,waters_4A
+1M3D,1M3D_C_2001_LU.pdb,LU,Lutetium,C,2001,3,2,3
+1M3D,1M3D_F_2002_LU.pdb,LU,Lutetium,F,2002,3,2,2
+1M3D,1M3D_I_2003_LU.pdb,LU,Lutetium,I,2003,3,2,2
+1M3D,1M3D_L_2004_LU.pdb,LU,Lutetium,L,2004,3,1,2
